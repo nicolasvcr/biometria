@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/yaca/biometria",
+	"sourceRoot": "/home/yaca/dev/biometria",
 	"sources": [
 		"ananke/css/main.css"
 	],
