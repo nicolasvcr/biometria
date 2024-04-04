@@ -1,0 +1,9 @@
+#+hugo_base_dir: ../
+#+hugo_custom_front_matter: :featured_image '/ox-hugo/puma.jpg'
+#+hugo_section: es/posts
+#+language: es
+#+title: Avistamiento puma
+
+Camino a Coyhaique Alto el profesor Daniel avista huellas de un /puma/.
+#+caption: A la izquierda huellas de puma, a la derecha huellas del profesor.
+[[./puma.jpg]]

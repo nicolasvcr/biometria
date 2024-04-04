@@ -1,0 +1,20 @@
+relativeURLS = true
+baseURL = 'https://hugo.drimyswinteri.org'
+languageCode = 'es-cl'
+title = 'Laboratorio de Biometría'
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = 'ananke'
+
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.es]
+    title = "Laboratorio de Biometría"
+    contentDir = "content/es"
+   [languages.en]
+     title = "Biometrics Lab"
+     contentDir = "content/en"

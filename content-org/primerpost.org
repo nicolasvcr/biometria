@@ -1,0 +1,17 @@
+#+hugo_base_dir: ../
+#+hugo_custom_front_matter: :featured_image '/ox-hugo/20231103_113135.jpg'
+#+hugo_section: es/proyectos
+#+language: es
+#+title: Premuetreo Jeinimeni
+Aqui estan los profes prospectando bosques.
+#+caption:Daniel a la izquierda, Christian a la derecha.
+[[./20231103_113135.jpg]]
+
+Símbolos por ejemplo \mu
+
+|   hola | segunda fila |
+| 113135 | hola         |
+|        |              |
+|        |              |
+|        |              |
+|        |--            |

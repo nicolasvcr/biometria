@@ -1,0 +1,8 @@
+#+hugo_base_dir: ../
+#+hugo_custom_front_matter: :featured_image '/ox-hugo/puntos.png'
+#+hugo_section: es/proyectos
+#+language: es
+#+title: nico el bkn
+
+Los puntos que hicimos
+[[./puntos.png]]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicaciones on Laboratorio de Biometría</title>
+    <link>https://hugo.drimyswinteri.org/posts/</link>
+    <description>Recent content in Publicaciones on Laboratorio de Biometría</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <atom:link href="https://hugo.drimyswinteri.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avistamiento puma</title>
+      <link>https://hugo.drimyswinteri.org/posts/puma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo.drimyswinteri.org/posts/puma/</guid>
+      <description>Camino a Coyhaique Alto el profesor Daniel avista huellas de un puma.
+Figura 1: A la izquierda huellas de puma, a la derecha huellas del profesor.</description>
+    </item>
+    <item>
+      <title>Foto de lenga</title>
+      <link>https://hugo.drimyswinteri.org/posts/lenga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo.drimyswinteri.org/posts/lenga/</guid>
+      <description>Bosques de Lenga Nothofagus pumilio Figura 1: Renoval de Lenga ubicado en la Reserva Nacional Coyhaique</description>
+    </item>
+    <item>
+      <title>Primer post</title>
+      <link>https://hugo.drimyswinteri.org/posts/primerpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo.drimyswinteri.org/posts/primerpost/</guid>
+      <description>This is an example file for use by the Org-mode tests. top code block Here are a couple of code blocks.
+;; 94839181-184f-4ff4-a72f-94214df6f5ba (message &amp;#34;I am code&amp;#34;) accumulating properties in drawers (list bar foo) </description>
+    </item>
+  </channel>
+</rss>

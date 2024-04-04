@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Laboratorio de Biometría</title>
+    <link>https://hugo.drimyswinteri.org/proyectos/</link>
+    <description>Recent content in Proyectos on Laboratorio de Biometría</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <atom:link href="https://hugo.drimyswinteri.org/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premuetreo Jeinimeni</title>
+      <link>https://hugo.drimyswinteri.org/proyectos/primerpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo.drimyswinteri.org/proyectos/primerpost/</guid>
+      <description>Aqui estan los profes prospectando bosques.
+Figura 1: Daniel a la izquierda, Christian a la derecha.
+Símbolos por ejemplo μ
+hola segunda fila 113135 hola &amp;ndash; </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+#+hugo_base_dir: ../
+#+hugo_custom_front_matter: :featured_image '/ox-hugo/lenga.jpg'
+#+hugo_section: es/posts
+#+language: es
+#+title: Foto de lenga
+* Bosques de Lenga /Nothofagus pumilio/
+#+caption: Renoval de Lenga ubicado en la Reserva Nacional Coyhaique
+[[./lenga.jpg]]

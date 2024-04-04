@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratorio de Biometría y Modelación Forestal on Biometrics Lab</title>
+    <link>https://hugo.drimyswinteri.org/en/</link>
+    <description>Recent content in Laboratorio de Biometría y Modelación Forestal on Biometrics Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://hugo.drimyswinteri.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>https://hugo.drimyswinteri.org/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo.drimyswinteri.org/en/about/</guid>
+      <description>Nullam eu ante vel ent convallis dignissim. Fusce suscipit, wisi nec facilisis facilisis, ent dui fermentum leo, quis tempor ligula erat quis odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum, lacus tellus malenuada massa, quis varius mi purus non odio. Pellentenque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate ventibulum lorem.</description>
+    </item>
+  </channel>
+</rss>
